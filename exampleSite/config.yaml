@@ -217,7 +217,7 @@ params:
         school:
           name: "Universiti Teknologi MARA"
         date: "2020 - 2024"
-        GPA: "3.13"
+        GPA: "3.22"
         content: Specializes in Big Data Analytics. Dean's List for Semester 5
         featuredLink:
           enable: true
