@@ -145,7 +145,7 @@ params:
     content: |-
       I am a passionate and diligent learner and always eager to learn new things and gain experience along the way. This is important so i can adapt with the fast-paced industry. I have a background in Statistics with honours and specializes in Big Data Analytics.
 
-      I am currently working on a project known as Citi Bike Program Analysis for November 2022. This project is for DSC651 - Data Representation and Reporting Techniques which use Python to create a dashboard.
+      I am currently involved in APU Certified Data Analyst (ACDA) through Yayasan Peneraju Scholarship Program while seeking for data analyst internship position. 
     skills:
       enable: true
       title: "Here are a few software I've been working with recently:"
@@ -160,6 +160,18 @@ params:
     enable: true
     title: "Extracurricular Activities"
     items:
+
+      - job: "Student"
+        company: "APU Certified Data Analyst (ACDA)"
+        date: "Aug 2023 - Present"
+        featuredLink:
+          enable: true
+        content: |
+          Learning how to:
+          - Comprehend the ETL concept by accessing and processing data from various sources, including relational and non-relational data, 
+          - Applying data transformation, and 
+          - Managing and deploying reports and dashboards for sharing and content distribution.
+        
       - job: "Vice Secretary"
         company: "Insight Statistics Seremban 3"
         date: "Jan 2022 - Feb 2023"
