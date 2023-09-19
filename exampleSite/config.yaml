@@ -121,7 +121,7 @@ params:
     intro: "Hi, my name is"
     title: "Intan."
     subtitle: "I'm a future aspiring data analyst"
-    content: "Looking for more experience through data science internship or any related field in your organization. This is my project portfolio using Github."
+    content: "Looking for more experience through data science or analyst internship or any related field in your organization. This is my project portfolio using Github."
     image: images/solopic.jpg
     bottomImage:
       enable: true
@@ -164,8 +164,6 @@ params:
       - job: "Student"
         company: "APU Certified Data Analyst (ACDA)"
         date: "Aug 2023 - Present"
-        featuredLink:
-          enable: true
         content: |
           Learning how to:
           - Comprehend the ETL concept by accessing and processing data from various sources, including relational and non-relational data, 
@@ -184,7 +182,6 @@ params:
           The following program is organized by InStatS3, I have contributed to make the program successful by making a video consisted of introduction and dean's list achievers. I have also created a poster to attract
           and invite new members to join the organization. Successfully attracted about 10-15 members. Poster [(Link)](https://drive.google.com/file/d/1zDhQzCB7r2XR_g73qIOBU9rmEtb4jLRR/view?usp=drive_link)
           - Multimedia Committee of Annual General Meeting for InStatS3 2020/2021
-        image: /images/excoinstat.png
 
       - job: "Multimedia Committee of Mini Datathon"
         company: "FSKM Week"
@@ -230,7 +227,7 @@ params:
           name: "Universiti Teknologi MARA"
         date: "2020 - 2024"
         GPA: "3.22"
-        content: Specializes in Big Data Analytics. Dean's List for Semester 5
+        content: Specializes in Big Data Analytics. Dean's List for Semester 5 and 6.
         featuredLink:
           enable: true
           name: "My academic record"
@@ -260,6 +257,7 @@ params:
         content: I learned Python Basics, Python Lists, Functions and Packages and Numpy.
       - title: Intermediate Python - DataCamp
         content: I learned how to use Matplotlib, Dictionaries and Pandas, Logic, Control Flow and Filtering, Loops and completed a case study about hacker statistics.
+        
   # projects
   projects:
     enable: true
@@ -286,9 +284,9 @@ params:
           - "Data Transformation"
           - "DAX"
 
-      - title: Citi Bike Program Analysis for November 2022 (On-going)
+      - title: Citi Bike Program Analysis for November 2022 
         content: |
-          Conducted data profiling, data cleaning and data visualization using Jupyter Notebook. Developed a dashboard with Plotly, Dash, CSS and Bootstrap but still in development process. Tracked KPIs such as Total Trips, Total Classic Bikes, Total Electric Bikes, Total Member and Total Casual.
+          Conducted data profiling, data cleaning and data visualization using Jupyter Notebook. Developed a dashboard with Plotly, Dash, CSS and Bootstrap. Tracked KPIs such as Total Trips, Total Classic Bikes, Total Electric Bikes, Total Member and Total Casual.
           Generated 7 different graphs including preferable bike type by member type, monitor and analyse trips by weekdays and weekends, distribution of start time, daily trip in a month, identified top 10 start station, bubble maps sorted by trip count and most popular routes. This is a project for DSC651.
         image: /images/citibikee.png
         badges:
