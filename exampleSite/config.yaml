@@ -148,27 +148,19 @@ params:
       I am currently involved in APU Certified Data Analyst (ACDA) through Yayasan Peneraju Scholarship Program while seeking for data analyst internship position. 
     skills:
       enable: true
-      title: "Here are a few software I've been working with recently:"
+      title: "Here are a few software/programming languages I've been working with recently:"
       items:
         - "Microsoft SQL Server"
-        - "Jupyter Notebook"
         - "Power BI"
-        - "Microsoft Excel"
+        - "ASP.NET"
+        - "C#"
+
 
   # Experience
   experience:
     enable: true
     title: "Extracurricular Activities"
     items:
-
-      - job: "Student"
-        company: "APU Certified Data Analyst (ACDA)"
-        date: "Aug 2023 - Present"
-        content: |
-          Learning how to:
-          - Comprehend the ETL concept by accessing and processing data from various sources, including relational and non-relational data, 
-          - Applying data transformation, and 
-          - Managing and deploying reports and dashboards for sharing and content distribution.
         
       - job: "Vice Secretary"
         company: "Insight Statistics Seremban 3"
@@ -222,16 +214,20 @@ params:
     title: "Education History"
     index: false
     items:
+    
+      - title: "APU Certified Data Analyst (ACDA)"
+        school:
+          name: "Asia Pasific University (APU)"
+        date: "Aug 2023 - Dec 2023"
+        content: |
+          It was a scholarship program by Yayasan Peneraju. Learn about ETL concept, data transformation and visualization with Power BI 
+          and fundamentals of Microsoft Azure. 
+          
       - title: "Bachelor of Science (Hons.) in Statistics"
         school:
           name: "Universiti Teknologi MARA"
         date: "2020 - 2024"
-        GPA: "3.22"
         content: Specializes in Big Data Analytics. Dean's List for Semester 5 and 6.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://drive.google.com/file/d/1xx-QBuwqjSUg9auocYoBPhpuzFK92JaV/view?usp=drive_link"
 
       - title: "Module 1 - Pure Science"
         school:
@@ -239,24 +235,21 @@ params:
         date: "2019 - 2020"
         GPA: "3.63"
         content: Dean's List for 2 Semester
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-
+        
   # Achievements
   achievements:
     enable: true
     title: "Certificates"
     items:
-      - title: Microsoft Power BI Desktop for Business Intelligence - Udemy
-        content: I learned how to use Power Bi efficiently and created an interactive AdventureWorks Executive Dashboard.
-        url: https://example.com
       - title: International Webinar Series Data Visualization Interactive Dashboard using Google Data Studio and Tableau
-        content: I learned how to use Google Data Studio and Tableau.
+        content: Learn how to use Google Data Studio and Tableau.
       - title: Introduction to Python - DataCamp
-        content: I learned Python Basics, Python Lists, Functions and Packages and Numpy.
+        content: Learn Python Basics, Python Lists, Functions and Packages and Numpy.
       - title: Intermediate Python - DataCamp
-        content: I learned how to use Matplotlib, Dictionaries and Pandas, Logic, Control Flow and Filtering, Loops and completed a case study about hacker statistics.
+        content: Learn how to apply Matplotlib, Dictionaries and Pandas, Logic, Control Flow and Filtering, Loops and completed a case study about hacker statistics.
+
+        #- title: Microsoft Power BI Desktop for Business Intelligence - Udemy
+        #content: Learn how to apply Power Bi efficiently and created an interactive AdventureWorks Executive Dashboard.
         
   # projects
   projects:
