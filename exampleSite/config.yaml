@@ -155,6 +155,20 @@ params:
         - "ASP.NET"
         - "C#"
 
+# Work Experience
+  experience:
+    enable: true
+    title: "Work Experience"
+    items:
+        
+      - job: "Developer Intern"
+        company: "Hypernix"
+        date: "Oct 2023 - Present"
+        content: |
+          - Debug SQL stored procedures query and optimized the query performance by 90% (1 hour to 5 min average). 
+          - Developed Power BI reports for client's company and applied direct query from SQL database.
+          - Comprehend C#, LINQ, .NET core, ASP.NET Core Web API and Blazor framework.
+          - Developing a personal project; LetsEat using Web API and Blazor.
 
   # Experience
   experience:
@@ -170,10 +184,10 @@ params:
           name: "View my certificate"
           url: "https://drive.google.com/file/d/13hJ2QrTZTHs2en_H-_kHwAgyBqkpi2V9/view?usp=drive_link"
         content: |
-          Interacted with lecturers and club members to discuss task, seek advices from seniors, and communicate instructions with team members. Developed accurate reports for past activities and meeting minutes.
-          The following program is organized by InStatS3, I have contributed to make the program successful by making a video consisted of introduction and dean's list achievers. I have also created a poster to attract
-          and invite new members to join the organization. Successfully attracted about 10-15 members. Poster [(Link)](https://drive.google.com/file/d/1zDhQzCB7r2XR_g73qIOBU9rmEtb4jLRR/view?usp=drive_link)
-          - Multimedia Committee of Annual General Meeting for InStatS3 2020/2021
+          - Interacted with lecturers and club members to discuss task, seek advices from seniors, and communicate instructions with team members. 
+          - Developed accurate reports for past activities and meeting minutes.
+          - Contributed to make the program successful by making a video consisted of introduction and dean's list achievers. 
+          - Created a poster to attract and invite new members to join the organization. Successfully attracted about 10-15 members. Poster [(Link)](https://drive.google.com/file/d/1zDhQzCB7r2XR_g73qIOBU9rmEtb4jLRR/view?usp=drive_link)
 
       - job: "Multimedia Committee of Mini Datathon"
         company: "FSKM Week"
