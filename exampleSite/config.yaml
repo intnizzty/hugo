@@ -155,12 +155,13 @@ params:
         - "ASP.NET"
         - "C#"
 
-# Work Experience
-  workexperience:
+
+  # Experience
+  experience:
     enable: true
-    title: "Work Experience"
+    title: "Experience"
     items:
-        
+
       - job: "Developer Intern"
         company: "Hypernix"
         date: "Oct 2023 - Present"
@@ -169,12 +170,6 @@ params:
           - Developed Power BI reports for client's company and applied direct query from SQL database.
           - Comprehend C#, LINQ, .NET core, ASP.NET Core Web API and Blazor framework.
           - Developing a personal project; LetsEat using Web API and Blazor.
-
-  # Experience
-  experience:
-    enable: true
-    title: "Extracurricular Activities"
-    items:
         
       - job: "Vice Secretary"
         company: "Insight Statistics Seremban 3"
